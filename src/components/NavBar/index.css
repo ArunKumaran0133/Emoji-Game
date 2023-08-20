@@ -1,0 +1,36 @@
+.logo-emoji {
+  height: 30px;
+  width: 30px;
+}
+
+.emoji-text {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.scores-text {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: white;
+  margin-right: 20px;
+}
+
+.img-text-container {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ccccff;
+}
+.score-container {
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}

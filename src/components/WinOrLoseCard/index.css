@@ -1,0 +1,50 @@
+.play-again-button {
+  background-color: #ffce27;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: black;
+  border-radius: 8px;
+  height: 35px;
+  width: 90px;
+  outline: none;
+}
+
+.score {
+  color: #6a59ff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.score-text {
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+}
+
+.text {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+}
+
+.image {
+  margin-left: 20px;
+  order: 1;
+  height: 400px;
+  width: 300px;
+}
+
+.a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.won-or-loose-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+.main-bg-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  min-height: 100vh;
+}
+
+.list-container {
+  padding-left: 0px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.emoji-container {
+  padding: 40px;
+}
